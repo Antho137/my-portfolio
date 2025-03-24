@@ -7,12 +7,12 @@ const About = () => {
             <div className='text-center'>
                 <h2 className='text-3xl text-orange-600 '>About Me</h2>
             </div>
-            <div className='md:mx-auto md:w-[70%] lg:w-[60%] xl:w-[50%] text-center flex flex-col justify-center content-center p-5'>
+            <div className='md:mx-auto md:w-[70%] lg:w-[60%] xl:w-[50%] text-lg text-center flex flex-col justify-center content-center p-5'>
                 <Image
                     src='/author.jpg'
                     alt='Author'
-                    width={300}
-                    height={300}
+                    width={200}
+                    height={200}
                     className='mt-3 mb-5 mx-auto rounded-[50%]'
                     priority
                 />
