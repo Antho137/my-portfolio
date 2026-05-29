@@ -7,7 +7,7 @@ const About = () => {
                 </h2>
             </div>
             <div className='flex flex-col justify-center items-center mx-auto p-5 md:px-10 gap-5 lg:px-15 lg:gap-8'>
-                <img src='/author.jpg'
+                <img src='./author.jpg'
                     alt='Author'
                     className='max-w-[100%] mx-auto rounded-full'
                 />

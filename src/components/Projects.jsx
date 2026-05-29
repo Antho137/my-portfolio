@@ -2,7 +2,7 @@ const Projects = () => {
     const projectArr = [
         {
             title: "Soft Minds",
-            img: "/soft_minds.png",
+            img: "./soft_minds.png",
             technos: "HTML, CSS3, Tailwindcss and Reactjs/Vite.",
             description: "A simple community website project about members opinions and ideas sharing.",
             live: "https://antho137.github.io/soft-minds/",
@@ -10,7 +10,7 @@ const Projects = () => {
         },
         {
             title: "Ontime Meal",
-            img: "/ontime_meal.png",
+            img: "./ontime_meal.png",
             technos: "HTML, CSS3, Tailwindcss and React.js/vite.",
             description: "A simple online food order project where clients check menus and make order online.",
             live: "https://antho137.github.io/ontime-meal/",
@@ -18,7 +18,7 @@ const Projects = () => {
         },
         {
             title: "Student Record",
-            img: "/student_grade.png",
+            img: "./student_grade.png",
             technos: "React.js and CSS",
             description: "A CRUD project about management of student record in a class. The aim is to get the student grade.",
             live: "https://antho137.github.io/student-record/",
@@ -26,7 +26,7 @@ const Projects = () => {
         },
         {
             title: "Apartment Rental",
-            img: "/apartment_rental.png",
+            img: "./apartment_rental.png",
             technos: "React.js-vite, Tailwindcss, and Typescript",
             description: "A simple project for apartment rental with search criteria based by the number of bedrooms.",
             live: "https://antho137.github.io/apartment-rent/",
@@ -34,7 +34,7 @@ const Projects = () => {
         },
         {
             title: "Discover Angola",
-            img: "/discover_angola.png",
+            img: "./discover_angola.png",
             technos: "HTML, CSS3, Tailwindcss and React.js/vite.",
             description: "A website project showing Angola as an exceptional destination that offers to businesses and tourists an unique experience",
             live: "https://antho137.github.io/discover-angola/",
@@ -42,7 +42,7 @@ const Projects = () => {
         },
         {
             title: "Analytics Dashboard",
-            img: "/analytics_dashboard.png",
+            img: "./analytics_dashboard.png",
             technos: "HTML, CSS3, Tailwindcss, Chart.js, and React.js/vite",
             description: "A single page Dashboard project with basic informations about weekly products sales.",
             live: "https://antho137.github.io/analytics-dashboard/",
